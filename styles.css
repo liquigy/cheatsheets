@@ -65,7 +65,7 @@ table {
 th {
     background-color: #000;
 }
-td {
+td, td p {
     font-family: 'Merriweather', 'Arial Narrow', Arial, sans-serif;
     padding: 5px;
 }
