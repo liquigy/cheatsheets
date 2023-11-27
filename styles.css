@@ -93,6 +93,12 @@ footer div {
     top: 600px;
     width: 100%;
 }
+footer a {
+    font-family: verdana;
+    font-size: 20px;
+    color: white;
+    
+  }
 nav {
     position: fixed;
     top: 0px;
